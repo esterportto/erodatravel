@@ -23,7 +23,7 @@ button {
     border-radius: 8px;
     font-weight: bold;
     border: 0;
-    background: #1D61DD;
+    background: #887BB0;
     color: white;
     font-family: 'Montserrat', sans-serif;
 }
@@ -42,6 +42,7 @@ header nav {
 
 header nav p {
     font-weight: bold;
+    color: whitesmoke;
 }
 
 header nav ul {
@@ -134,7 +135,7 @@ header nav ul li {
     position: absolute;
     right: 0;
     top: 15px;
-    background: #F19B39;
+    background: #85D2D0;
     border-radius: 8px 0 0 8px;
     padding: 5px 10px;
 }
@@ -143,7 +144,7 @@ header nav ul li {
     position: absolute;
     left: 0;
     top: 160px;
-    background: #1D61DD;
+    background: #887BB0;
     border-radius: 0 8px 8px 0;
     padding: 5px 10px;
 }
@@ -190,7 +191,7 @@ header nav ul li {
 }
 
 .servicos .card svg:hover {
-    stroke: #1D61DD;
+    stroke: #887BB0;
     transform: scale(1.1);
 }
 
@@ -210,7 +211,7 @@ header nav ul li {
 }
 
 .servicos button {
-    background: #1D61DD;
+    background: #887BB0;
 }
 
 #map {
@@ -307,7 +308,7 @@ header nav ul li {
         padding: 0;
         margin: 0;
         z-index: 99;
-        background: #1D61DD;
+        background: #887BB0;
         color: white;
         font-weight: bold;
         height: 55px;
